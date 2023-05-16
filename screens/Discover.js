@@ -76,7 +76,7 @@ const Discover = () => {
             
           }}
             query={{
-            key: 'AIzaSyCfIMv4sgGNmjrkEW7i3jLte3tWXCItWZk',
+            key: 'YOUR_API_KEY',
             language: 'en',
           }}
         />
