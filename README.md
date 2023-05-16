@@ -1,3 +1,3 @@
 ##Roam Right
 
-##Abou the application📱
+##About the application📱
